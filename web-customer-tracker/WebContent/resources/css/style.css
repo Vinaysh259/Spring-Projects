@@ -1,0 +1,41 @@
+#wrapper{
+	text-align: center;
+	margin:auto;
+	background-color: lightgreen;
+	width:75%;
+	border: 1px solid white;	
+}
+
+
+
+#container{
+	border : 10px solid white;
+	margin:auto;
+	width: 75%;
+	align-content: center;
+}
+
+#content{
+	padding: 30px;
+}
+
+.addButton{
+	height:30px;
+	margin:0 0 20px 0;
+	font-size:large;
+}
+
+.table1{
+	border: 2px solid black;
+	width: 100%;
+	text-align:center;
+	font-size: x-large;
+}
+
+th{
+	background-color: lightgreen;
+}
+
+tr{
+	background-color: #80808021;
+}
